@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aravindhasamychs2017@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sHx6CzopBhPf1R26EwuR4higqu6wQWjs/view?usp=drivesdk](https://drive.google.com/file/d/1sHx6CzopBhPf1R26EwuR4higqu6wQWjs/view?usp=drivesdk)
+- 📄 Know about my experiences https://drive.google.com/file/d/1rkKo6ar8QCknOqDnWrywBiDKPmn10ss5/view?usp=drive_link
 
 - ⚡ Fun fact **WHO AM I ?**
 
