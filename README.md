@@ -7,12 +7,7 @@ I'm a Full-stack Engineer.I excel in building robust backend solutions and am ea
 
 [![](https://visitcount.itsvg.in/api?id=aravindha-samy&icon=5&color=3)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently focusing on the **Devops**
-- 👯 I’m looking to collaborate on **innovative projects**
-- 🚀 Passionate about learning new technologies and applying them in real-world scenarios
-- 💡 Always exploring new ideas to enhance my development skills
-- 🔗 Let's connect and discuss how we can work together!
----
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
